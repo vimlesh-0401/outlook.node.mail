@@ -1,0 +1,6 @@
+public/uploads
+/bin/www
+npm-debug.log
+log/*.log
+tmp
+node_modules
